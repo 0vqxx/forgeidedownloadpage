@@ -1,8 +1,8 @@
-version: 2.0.2
+version: 2.0.3
 files:
   - url: ForgeIDE_Setup.exe
-    sha512: l6HMckWe9b2ZcOcbji1jCRlBYrfpTEolmY1sXLJ/hcQnv1WsDt3EQwl5haKUFIDW/QAPf87WWH4xaRg5YFlOHw==
-    size: 154231265
+    sha512: 3dfS48ZUIzW1B90as2Z/OQoHEGQh6j/QaEpr3/g2OBLjSXaee1j3D6ZFvd3RwJVbt0l9EWdE2irjGyfuPfAmlQ==
+    size: 155326975
 path: ForgeIDE_Setup.exe
-sha512: l6HMckWe9b2ZcOcbji1jCRlBYrfpTEolmY1sXLJ/hcQnv1WsDt3EQwl5haKUFIDW/QAPf87WWH4xaRg5YFlOHw==
-releaseDate: '2026-07-16T22:46:18.279Z'
+sha512: 3dfS48ZUIzW1B90as2Z/OQoHEGQh6j/QaEpr3/g2OBLjSXaee1j3D6ZFvd3RwJVbt0l9EWdE2irjGyfuPfAmlQ==
+releaseDate: '2026-07-16T23:00:44.774Z'
